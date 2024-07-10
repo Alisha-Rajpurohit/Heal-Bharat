@@ -18,7 +18,7 @@ exit;
 <style>
     body{
      
-        background: url("_7.jpg");
+        background: url("images/_7.jpg");
         background-size: cover;
     }
 </style>
