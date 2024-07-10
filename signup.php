@@ -48,7 +48,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <title>SignUp</title>
     <style>
         body{
-            background: url("_7.jpg") no-repeat;
+            background: url("images/_7.jpg") no-repeat;
             background-size: cover;
         }
         .container {
@@ -88,7 +88,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     ?>
     <div class="container my-5 ">
     <div class="container mt-4 bg-body">
-    <img src="_1.jpg" alt="loading..." class="mt-4 rounded-circle">
+    <img src="images/_1.jpg" alt="loading..." class="mt-4 rounded-circle">
     <h2 class="text-center mt-2">SignUp to continue...</h2>
         <form action="/BlogSystem/signup.php" method="post" class="mt-4">
             <div class="mb-3">
