@@ -21,7 +21,7 @@ integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2
 <style>
     body{
      
-        background: url("_7.jpg");
+        background: url("images/_7.jpg");
         background-size: cover;
     }
 </style>
